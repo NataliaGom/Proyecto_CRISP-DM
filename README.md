@@ -30,7 +30,7 @@ Este proyecto puede reproducirse localmente siguiendo los pasos de instalación 
 
 Primero, clona el repositorio en tu computadora:
 
-`git clone URL_DEL_REPOSITORIO`
+`git clone https://github.com/NataliaGom/Proyecto_CRISP-DM`
 
 Después entra a la carpeta del proyecto:
 
